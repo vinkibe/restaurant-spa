@@ -14,7 +14,7 @@ export default class extends AbstractView{
          <div class="box">
            <img src="static/fried.jpg" alt="">
            <h3>Tasty and Healthy</h3>
-           <div class="price">$15.99 <span>20.99</span></div>
+           <div class="price">15.99 ksh.<span>20.99</span></div>
            <a href="#" class="btn">Add to Cart</a>
          </div>
      
